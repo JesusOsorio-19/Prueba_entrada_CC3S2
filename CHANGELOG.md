@@ -2,7 +2,12 @@
 
 ## Día 1: Configuración inicial
 
-1. Se creó la estructura del proyecto y se configuró el entorno virtual.
-2. Se añadieron las dependencias iniciales (`FastAPI`, `Uvicorn`, etc.).
-3. Se configuraron los archivos `Dockerfile` y `docker-compose.yml`.
-4. Se inicializó el repositorio Git con ramas `develop` y `feature/estructura-inicial`.
+1. Se creó la estructura del proyecto
+2. Se configuró entorno virtual y dependencias
+3. Se creo y se añadió archivos al Dockerfile y compose.yml
+4. Se creó archivo .env y main.py
+5. FastAPI funcionando en http://localhost:8000
+6. Se trabajó en la rama feature/estructura-inicial
+7. Merge realizado a develop
+8. Tag: v1.0-day1
+
